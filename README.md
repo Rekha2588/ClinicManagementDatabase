@@ -1,0 +1,1 @@
+The Clinic Management Database aims to streamline clinic operations, improve patient care and enhance administrative efficiency. Designed various database objects like tables, stored procedures, functions and triggers
